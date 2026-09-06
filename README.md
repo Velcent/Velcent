@@ -1,8 +1,8 @@
 <span align="center">
 
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Velcent&theme=tokyonight&hide_border=true" />
-<img width="56.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Velcent&theme=tokyonight&show_icons=true&hide_border=true&count_private=truet&rank_icon=github&include_all_commits=true" />
-<img width="42.9%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Velcent&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Velcent&theme=dracula&hide_border=true" />
+<img width="56.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Velcent&theme=dracula&show_icons=true&hide_border=true&count_private=truet&rank_icon=github&include_all_commits=true" />
+<img width="42.9%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Velcent&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
  
 #### 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/manjadev?locale.x=id_ID&country.x=ID) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/VelcentGames) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/velcentdev) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/velcent.dev) 
